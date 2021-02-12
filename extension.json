@@ -1,0 +1,12 @@
+{
+  "identifier": "com.matta9001.sn-onedark",
+  "name": "One Dark Theme",
+  "content_type": "SN|Component",
+  "area": "themes",
+  "version": "1.0.0",
+  "description": "One Dark for StandardNotes",
+  "url": "https://cdn.jsdelivr.net/gh/matta9001/sn-onedark/src/main.css",
+  "download_url": "https://github.com/matta9001/sn-onedark/archive/master.zip",
+  "latest_url": "https://cdn.jsdelivr.net/gh/matta9001/sn-onedark/extension.json",
+  "marketing_url": "https://github.com/matta9001/sn-onedark",
+}
