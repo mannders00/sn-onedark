@@ -1,23 +1,23 @@
 :root {
-  --primary-bg-color: #31353F;
-  --secondary-bg-color: #31353F;
-  --editor-bg-color: #282C34;
-  --border-color: #131519;
-  --ui-text-color: #ABB2Bf;
+  --primary-bg-color: #20242B;
+  --secondary-bg-color: #20242B;
+  --editor-bg-color: #272B34;
+  --border-color: #13131a;
+  --ui-text-color: #d8d8d8;
 
-  --sn-stylekit-info-color: #61AFEF;
+  --sn-stylekit-info-color: #086DD6;
   --sn-stylekit-info-contrast-color: white;
 
-  --sn-stylekit-neutral-color: #ABB2BF;
+  --sn-stylekit-neutral-color: #7c7c7c;
   --sn-stylekit-neutral-contrast-color: white;
 
-  --sn-stylekit-success-color: #98C379;
+  --sn-stylekit-success-color: #2B9612;
   --sn-stylekit-success-contrast-color: white;
 
-  --sn-stylekit-warning-color: #E5C07B;
+  --sn-stylekit-warning-color: #f6a200;
   --sn-stylekit-warning-contrast-color: white;
 
-  --sn-stylekit-danger-color: #E06C75;
+  --sn-stylekit-danger-color: #F80324;
   --sn-stylekit-danger-contrast-color: white;
 
   --sn-desktop-titlebar-bg-color: var(--primary-bg-color);
@@ -26,9 +26,9 @@
   --sn-desktop-titlebar-ui-hover-color: var(--sn-stylekit-info-color);
 
   // StyleKit Vars
-  --sn-stylekit-shadow-color: #282C34;
+  --sn-stylekit-shadow-color: #20202b;
 
-  --sn-stylekit-background-color: #282C34;
+  --sn-stylekit-background-color: #20202b;
   --sn-stylekit-border-color: var(--border-color);
   --sn-stylekit-foreground-color: var(--ui-text-color);
 
@@ -36,11 +36,11 @@
   --sn-stylekit-contrast-foreground-color: var(--ui-text-color);
   --sn-stylekit-contrast-border-color: var(--border-color);
 
-  --sn-stylekit-secondary-background-color: #31353f;
+  --sn-stylekit-secondary-background-color: #292937;
   --sn-stylekit-secondary-foreground-color: var(--ui-text-color);
   --sn-stylekit-secondary-border-color: var(--border-color);
 
-  --sn-stylekit-secondary-contrast-background-color: #31353f;
+  --sn-stylekit-secondary-contrast-background-color: #45445a;
   --sn-stylekit-secondary-contrast-foreground-color: var(--ui-text-color);
   --sn-stylekit-secondary-contrast-border-color: var(--border-color);
 
