@@ -17,7 +17,7 @@
   --sn-desktop-titlebar-bg-color: var(--primary-bg-color);
   --sn-desktop-titlebar-border-color: var(--border-color);
   --sn-desktop-titlebar-ui-color: var(--ui-text-color);
-  --sn-desktop-titlebar-ui-hover-color: var(--sn-stylekit-info-color);
+  --sn-desktop-titlebar-ui-hover-color: var(--primary-bg-color);
   --sn-stylekit-shadow-color: #20202b;
   --sn-stylekit-background-color: #272b34;
   --sn-stylekit-border-color: var(--border-color);
